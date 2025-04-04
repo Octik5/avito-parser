@@ -23,7 +23,7 @@
 git clone https://github.com/Octik5/avito-parser.git
 cd avito-parser
 
-Установите зависимости:
+# Установите зависимости:
 pip install -r requirements.txt
 
 Настройте параметры в коде:

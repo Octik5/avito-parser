@@ -9,7 +9,7 @@
 
 # Парсер новых объявлений Avito с уведомлением в Telegram
 
-![Avito + Telegram]([https://example.com/avito-telegram-bot.jpg](./screenshot/HowToLooksLike.png))
+Avito + Telegram
 
 Этот скрипт автоматически отслеживает новые объявления на Avito по заданным параметрам и отправляет уведомления в Telegram при появлении новых предложений.
 

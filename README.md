@@ -1,10 +1,12 @@
 # avito-parser
 Парсер Avito
 ## 🖨️ Document Template Generator
-![Avito Parser](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-Latest-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-
+![Requests](https://img.shields.io/badge/Requests-2.31.0-red)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-4.12.2-orange)
+![Fake UserAgent](https://img.shields.io/badge/Fake_UserAgent-1.2.1-lightgrey)
 ![Avito Telegram Integration](./screenshot/HowToLooksLike.png)
 
 # Парсер новых объявлений Avito с уведомлением в Telegram

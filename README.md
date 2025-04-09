@@ -5,7 +5,7 @@
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-Latest-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![Avito Telegram Integration](https://i.pinimg.com/736x/c6/4d/f9/c64df982b36bc0ae4588a881ee7e1adb.jpg)
+![Avito Telegram Integration](./screenshot/HowToLooksLike.png)
 
 # Парсер новых объявлений Avito с уведомлением в Telegram
 
